@@ -1,0 +1,5 @@
+The net Total is: $38382578.0
+The total number of months is: 86
+The average change is: $-2315.1176470588234
+The greatest increase in profits is: $1926159.0 on Feb-2012
+The greatest decrease in profits is: $-2196167.0 on Sep-2013

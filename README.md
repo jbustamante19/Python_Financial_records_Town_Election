@@ -1,11 +1,9 @@
-# python-challenge 
-# pybank 
-analyzing the financial records of your company &amp; modernize vote-counting process
 
-You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+Analyzing the financial records; modernizing vote-counting process
 
+The dataset is composed of two columns: Date and Profit/Losses. 
 
-Your task is to create a Python script that analyzes the records to calculate each of the following:
+Calculated the following:
 
 
 The total number of months included in the dataset
@@ -22,9 +20,9 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in losses (date and amount) over the entire period
 
-# pybank 
+# Part 2 
 
-You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+The dataset is composed of three columns: Voter ID, County, and Candidate. Calculated each of the following:
 
 
 The total number of votes cast

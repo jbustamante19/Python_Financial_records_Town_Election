@@ -1,5 +1,5 @@
 
-Analyzing the financial records; modernizing vote-counting process
+Analyzing the financial records of a company; modernizing vote-counting process of small town
 
 The dataset is composed of two columns: Date and Profit/Losses. 
 
